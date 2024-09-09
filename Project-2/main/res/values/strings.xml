@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="question_australia">Canberra is the capital of Australia.</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="question_1">The Earth is the fourth planet from the Sun.</string>
+    <string name="question_2">The chemical symbol for water is H2O.</string>
+    <string name="question_3">Humans have 46 chromosomes.</string>
+    <string name="question_4">The capital of Canada is Toronto.</string>
+    <string name="question_5">The Great Wall of China can be seen from space.</string>
+    <string name="score_message">You got %1$d out of %2$d correct!</string>
+
+</resources>
